@@ -1,7 +1,3 @@
-streamlit
-pandas
-plotly
-openpyxl
 
 
 # pages/자격증_시각화.py
