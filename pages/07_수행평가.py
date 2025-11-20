@@ -1,3 +1,9 @@
+streamlit
+pandas
+plotly
+openpyxl
+
+
 # pages/자격증_시각화.py
 # Streamlit page that reads a CSV from the repository root (or /mnt/data when running here)
 # Shows interactive Plotly bar chart of certificate-grade counts per '종목'.
